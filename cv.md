@@ -1,9 +1,10 @@
+
 # SpongeBob SquarePants
 124 Conch Street, Bikini Bottom
 Phone: (555) 123-BOB1 | Email: spongebob@bikinibottom.com
 LinkedIn: linkedin.com/in/spongebobsquarepants
-*******************************************************
-
+---
+![Profile photo](D:\Study\rs_school\rsschool-cv\Spongebob.png "My photo")
 ## Professional Summary
 Dedicated and enthusiastic fry cook with over a decade of experience crafting world-class Krabby Patties. Renowned for an unmatched work ethic, attention to detail, and ability to maintain positivity even under pressure. Skilled in customer service, culinary excellence, and teamwork. Seeking to bring culinary passion and creativity to new challenges.
 
