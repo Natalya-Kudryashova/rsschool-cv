@@ -29,11 +29,11 @@ Led educational programs for local schools and community groups.
 * Ongoing Driver’s License Training Program
   Focus: Underwater Navigation and Safe Boating Practices
 ## Skills
-Culinary Expertise: Master of Krabby Patty crafting and customization.
-Customer Service: Friendly, patient, and solution-oriented approach.
-Team Collaboration: Works effectively with diverse personalities, from Squidward to Mr. Krabs.
-Adaptability: Thrives under pressure in high-stress environments.
-Jellyfish Whispering: Exceptional skill in jellyfish catching and care.
+* Culinary Expertise: Master of Krabby Patty crafting and customization.
+* Customer Service: Friendly, patient, and solution-oriented approach.
+* Team Collaboration: Works effectively with diverse personalities, from Squidward to Mr. Krabs.
+* Adaptability: Thrives under pressure in high-stress environments.
+* Jellyfish Whispering: Exceptional skill in jellyfish catching and care.
 ## Hobbies
 * Jellyfishing
 * Bubble Blowing (Advanced Techniques: Double Loopy Loop)
