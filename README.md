@@ -1,1 +1,1 @@
-[rsschool-cv] (https://natalya-kudryashova.github.io/rsschool-cv/cv "Markdown CV")
+[rsschool-cv](https://natalya-kudryashova.github.io/rsschool-cv/cv "Markdown CV")
