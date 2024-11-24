@@ -10,7 +10,7 @@ LinkedIn: linkedin.com/in/spongebobsquarepants
 Dedicated and enthusiastic fry cook with over a decade of experience crafting world-class Krabby Patties. Renowned for an unmatched work ethic, attention to detail, and ability to maintain positivity even under pressure. Skilled in customer service, culinary excellence, and teamwork. Seeking to bring culinary passion and creativity to new challenges.
 
 ## Work Experience
-* ### Fry Cook
+### Fry Cook
 #### The Krusty Krab – Bikini Bottom
 #### May 1999 – Present
 Prepared and served high-quality Krabby Patties, maintaining consistent excellence in taste and presentation.
@@ -19,15 +19,15 @@ Implemented creative cooking techniques, increasing customer satisfaction by 20%
 Earned **Employee of the Month** award over 300 consecutive times.
 Volunteer Jellyfish Enthusiast
 
-* ### Jellyfish Fields Society – Bikini Bottom
+### Jellyfish Fields Society – Bikini Bottom
 #### Jan 1999 – Present
 Organized community events promoting jellyfish conservation and appreciation.
 Cultivated expertise in jellyfish handling, herding, and preservation.
 Led educational programs for local schools and community groups.
 ## Education
-Bikini Bottom Boating School
-Ongoing Driver’s License Training Program
-Focus: Underwater Navigation and Safe Boating Practices
+* Bikini Bottom Boating School
+* Ongoing Driver’s License Training Program
+  Focus: Underwater Navigation and Safe Boating Practices
 ## Skills
 Culinary Expertise: Master of Krabby Patty crafting and customization.
 Customer Service: Friendly, patient, and solution-oriented approach.
